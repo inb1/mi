@@ -1,0 +1,31 @@
+.nav-item >a:hover{
+
+color: orange;
+text-decoration: underline;
+}
+
+#mock:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#boat:hover{
+    color: orange;
+    text-decoration: underline;
+
+}
+
+
+.nav-item >a:hover{
+
+    color: orange;
+   
+}
+#mobile:hover{
+    color: orange;
+}
+#in2[placeholder]{
+
+/* color:white !important; */
+/* background-color: red !important; */
+border:  2px solid white;
+}
